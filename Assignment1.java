@@ -5,6 +5,11 @@ static Scanner input = new Scanner(System.in);
 
 
     public static void main(String[] args) {
-        // Add your code here
+        System.out.println("Type something");
+        String name;
+        name = input.next();
+
+        System.out.println(name);
+
     }
 }
