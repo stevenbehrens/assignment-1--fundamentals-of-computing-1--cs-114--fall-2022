@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Assignment1 {
@@ -18,7 +19,7 @@ static Scanner input = new Scanner(System.in);
         System.out.println("SSSSSSSSSSSSSSSSSS  BBB         BBB ");
         System.out.println("SSSSSSSSSSSSSSSSSS  BBBBBBBBBBBBBB  ");
 
-        System.out.println("Type something");
+        System.out.println("Please enter a a number in Farenheit");
         String name;
         name = input.next();
 
